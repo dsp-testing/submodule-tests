@@ -1,0 +1,3 @@
+[submodule "lib-dev"]
+	path = lib-dev
+	url = https://github.com/dsp-testing/lib-dev.git
